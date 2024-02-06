@@ -1,0 +1,45 @@
+{
+    "easy": [
+        {
+            "description": "Solve the following math problem: 5 + 3",
+            "answer": "8"
+        },
+        {
+            "description": "What is the capital of France?",
+            "answer": "Paris"
+        },
+        {
+            "description": "Who wrote 'Romeo and Juliet'?",
+            "answer": "William Shakespeare"
+        }
+    ],
+    "medium": [
+        {
+            "description": "What is the square root of 64?",
+            "answer": "8"
+        },
+        {
+            "description": "How many continents are there?",
+            "answer": "7"
+        },
+        {
+            "description": "Who painted the Mona Lisa?",
+            "answer": "Leonardo da Vinci"
+        }
+    ],
+    "hard": [
+        {
+            "description": "What is the value of pi (π) to two decimal places?",
+            "answer": "3.14"
+        },
+        {
+            "description": "Who discovered penicillin?",
+            "answer": "Alexander Fleming"
+        },
+        {
+            "description": "What is the chemical symbol for gold?",
+            "answer": "Au"
+        }
+    ]
+}
+
